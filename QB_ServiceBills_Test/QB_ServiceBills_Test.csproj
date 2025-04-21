@@ -31,7 +31,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\QB_ServiceBills_CLI\QB_ServiceBills_CLI.csproj" />
-    <ProjectReference Include="..\QB_ServiceBills_Lib\QB_ServiceBills_Lib.csproj" />
   </ItemGroup>
 
   <ItemGroup>
